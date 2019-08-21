@@ -1,0 +1,7 @@
+numpy
+gluonnlp
+mxnet
+leven==1.0.4
+nltk
+mxboard
+sacremoses
